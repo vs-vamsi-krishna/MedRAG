@@ -1,0 +1,10 @@
+streamlit
+pandas
+langchain-core
+langchain-huggingface
+langchain-chroma
+sentence-transformers
+chromadb
+google-genai
+torch
+torchvision
